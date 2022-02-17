@@ -1,0 +1,5 @@
+Componetns that will need for HTML portfolio template.
+
+1. images(own-3, projects-3, clients-2),
+2. icons (font-awesome),
+3. files(index.html-1, style.css-1, main.js-1)
